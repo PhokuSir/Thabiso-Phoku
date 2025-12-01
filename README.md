@@ -1,21 +1,7 @@
-# Hi there, I am Thabiso Phoku! 👋
+Hi there, I am Thabiso Phoku 👋
 
-### 👨‍💻 About Me
-I am a passionate software developer working on [mention current focus, e.g., web development/data science].
+RF Strategist | Data Science Practitioner | MBA
 
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Language/Framework, e.g., React, Python]
-- 💬 Ask me about [Topic, e.g., JavaScript, SQL]
-- ⚡ Fun fact: [Insert a fun fact about you]
+I am a results-driven professional with 18 years of extensive experience in RF infrastructure (cellular, microwave, broadcast). I am leveraging my MBA and current Data Science certification  to transition into roles that combine strategic business acumen and predictive analytics.
 
-### 🛠️ Skills
-* **Languages:** Python, Java, JavaScript (List yours here)
-* **Tools:** Git, VS Code, Docker
-* **Frameworks:** Django, Spring Boot
-
-### 📫 Connect with me
-* [LinkedIn](https://www.linkedin.com/in/thabiso-phoku-004ab656)
-* Email: [Your Email Address]
-
-![Thabiso's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhokuSir&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhokuSir&layout=compact&theme=radical)
+* Ask me about: Complex RF network planning, TETRA communication systems, utilizing predictive modeling for maintenance, and integrating business strategy with technical operations. * I'm currently working on: Capstone projects from the Data Science Bootcamp focused on applying Machine Learning and Data Visualisation to optimize network efficiencies. * I'm learning about: Advanced statistical modeling techniques and Python libraries for scalable data pipelines. * Fun Fact: I spent four years maintaining marine navigation and satellite equipment for safety at sea.
